@@ -1,5 +1,4 @@
 
-# 김순철_사전과제
 
 ## 개발환경
  
@@ -8,7 +7,15 @@
 - 웹서버 Apache 2.4
 - 언어 PHP 7.1
 - DB Mysql 5.7
-    - 접속정보: host(13.113.51.202) user(my_user) passwd(asdf1234)
+    - 접속정보
+				```
+				host : 13.113.51.202,
+			 dbname: db_todolist,
+				user : my_user,
+				passwd : asdf1234
+				```
+				
+				
 
 
 ## 접속페이지
