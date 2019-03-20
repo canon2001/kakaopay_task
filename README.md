@@ -11,6 +11,7 @@
 - linux Ubuntu 16.04.5 LTS
 - 웹서버 Apache 2.4
 - 언어 PHP 7.1
+- framework : CodeIgniter-3.1.10
 - DB Mysql 5.7
     - 접속정보
     ```
